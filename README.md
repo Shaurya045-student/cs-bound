@@ -6,26 +6,17 @@ This repository documents my journey of learning different programming languages
 ## 📚 What I'm Learning
 
 ### 💻 Programming
-<br>
-        · C Language
+· C Language
 <br>
 
 
 ### 🌐 Web Development
 <br>
-    · Git & GitHub
-<br>
-
-    · HTML
-<br>
-
-    · CSS (Coming Soon)
-<br>
-
-    · JavaScript (Coming Soon)
-<br>
-
-    · Responsive Web Design (Coming Soon)
+· Git & GitHub
+· HTML
+· CSS (Coming Soon)
+· JavaScript (Coming Soon)
+· Responsive Web Design (Coming Soon)
 <br>
 
 ----------------------------------------------------------------------------------------------------
@@ -48,19 +39,10 @@ Each folder contains my practice programs, exercises, mini projects, and learnin
 
 # 🛠️ Learning Progress
 💻 C Language
-<br>
-
 · Basics & Data Types
-<br>
-
 · Input & Output (Coming Soon)
-<br>
-
 · Functions (Coming Soon)
-<br>
-
 · Arrays (Coming Soon)
-<br>
 
 ----------------------------------------------------------------------------------------------------
 
@@ -73,13 +55,8 @@ My goal is to build a strong foundation in programming & web development before 
 # 🌱 Current Focus
 <br>
 · Learning C Language
-
-<br>
 · Building mini projects
-
-<br>
 · Mastering [Tool/Concept]
-
 <br>
 
 ----------------------------------------------------------------------------------------------------
